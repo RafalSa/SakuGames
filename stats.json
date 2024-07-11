@@ -1,0 +1,51 @@
+{
+  "characters": {
+    "wojownik": {
+      "stats": {
+        "si³a": 10,
+        "zrêcznoœæ": 5,
+        "wytrzyma³oœæ": 8
+      }
+    },
+    "³ucznik": {
+      "stats": {
+        "si³a": 5,
+        "zrêcznoœæ": 10,
+        "wytrzyma³oœæ": 6
+      }
+    },
+    "mag": {
+      "stats": {
+        "si³a": 3,
+        "zrêcznoœæ": 7,
+        "wytrzyma³oœæ": 9
+      }
+    },
+    "lis": {
+      "stats": {
+        "si³a": 4,
+        "zrêcznoœæ": 8,
+        "wytrzyma³oœæ": 5
+      },
+      "description": "List to sprytny stwór, lubi zaskakiwaæ swoje ofiary.",
+      "strengths": [
+        "szybkoœæ",
+        "zwinnoœæ",
+        "skradanie siê"
+      ]
+    },
+    "goblin": {
+      "stats": {
+        "si³a": 6,
+        "zrêcznoœæ": 4,
+        "wytrzyma³oœæ": 7
+      },
+      "description": "Gobliny s¹ ma³e, ale zadziwiaj¹co silne jak na swój rozmiar.",
+      "strengths": [
+        "szczwany",
+        "szybkoœæ",
+        "trucizny"
+      ]
+    }
+  }
+}
